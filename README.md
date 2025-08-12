@@ -6,7 +6,7 @@ This program displays a personalized welcome message to the user.
 It demonstrates basic input/output functions and a straightforward if statement to produce the output.
 
 **Features**
-- Includes a predefined default name (RABI-UL-AWAL)
+- Includes a predefined default name (ANONYMOUS)
 - Accepts user input for the name
 - Displays a customized welcome message
 
