@@ -11,6 +11,7 @@ It demonstrates basic input/output functions and a straightforward if statement 
 - Displays a customized welcome message
 
 **How to Run**
+
 1: Save the code in a file called welcome.c
 
 2: Compile the program:
